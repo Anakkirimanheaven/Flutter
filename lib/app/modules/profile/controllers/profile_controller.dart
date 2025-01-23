@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import '../../../data/profile_response.dart';
-import '../../../utils/api.dart';
+import 'package:bismillah/app/data/profile_response.dart';
+import 'package:bismillah/app/utils/api.dart';
 
 class ProfileController extends GetxController {
   final box = GetStorage();
